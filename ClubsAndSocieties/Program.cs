@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using ClubsAndSocieties.Data;
-//repo test
+
 namespace ClubsAndSocieties
 {
     public class Program
